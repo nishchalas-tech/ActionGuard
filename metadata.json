@@ -1,0 +1,7 @@
+{
+  "name": "ActionGuard",
+  "description": "AI Agent Action Control Plane — Independent evaluation, policy enforcement, and human-in-the-loop authorization before AI agent actions reach tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
